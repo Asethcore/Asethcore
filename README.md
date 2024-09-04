@@ -16,4 +16,3 @@ I'm Aseth, a university student currently pursuing a degree in Computer Science.
 ## 💬 Reach me at
 
 - *Email*: asethcore@gmail.com
-- *X*: @Anksterhip
