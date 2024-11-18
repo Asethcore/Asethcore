@@ -1,4 +1,4 @@
-![rm](https://github.com/user-attachments/assets/a914361b-12b0-4c66-b45b-daee4abcbf25)
+![lain](https://github.com/user-attachments/assets/9655bc21-c81f-4483-85c9-1ea1e1bbb450)
 
 - *Myself Anurag*
 - *Field of Study: Computer Science*
