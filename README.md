@@ -2,5 +2,5 @@
 
 - *Myself Anurag*
 - *Field of Study: Computer Science*
-- *Interests: Quantum Computing, Machine Learning and Physics.*
+- *Interests: Physics, Quantum Computing and Machine Learning.*
 - *I use Arch Linux BTW*
