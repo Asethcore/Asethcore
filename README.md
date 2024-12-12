@@ -1,4 +1,4 @@
-![gb](https://github.com/user-attachments/assets/564b0b5a-bf9d-46c0-a4e1-5b57600dbb22)
+![ghibli](https://github.com/user-attachments/assets/13351847-3f64-4d80-8899-a12647c86f9a)
 
 - *Myself Anurag*
 - *Field of Study: Computer Science*
