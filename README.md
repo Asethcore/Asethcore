@@ -1,4 +1,4 @@
-![ghibli](https://github.com/user-attachments/assets/bd5bba26-096a-4958-bfa5-7f9a8040951f)
+![gb2](https://github.com/user-attachments/assets/7649a4de-7499-48df-aa95-bd9b24544133)
 
 - *Myself Anurag*
 - *Field of Study: Computer Science*
