@@ -5,10 +5,10 @@
     </td>
     <td>
       <ul>
-        <li>Myself Anurag</li>
-        <li>Field of Study: Computer Science</li>
-        <li>Interests: Physics, Quantum Computing, and Machine Learning</li>
-        <li>I use Arch Linux BTW</li>
+        <li><i>Myself Anurag</i></li>
+        <li><i>Field of Study: Computer Science</i>i</li>
+        <li><i>Interests: Physics, Quantum Computing, and Machine Learning</i></li>
+        <li><i>I use Arch Linux BTW</i></li>
       </ul>
     </td>
   </tr>
