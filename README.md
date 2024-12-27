@@ -7,8 +7,7 @@
       <ul>
          <li><i>Myself Anurag</i></li>
         <li><i>Field of Study: Computer Science</i></li>
-        <li><i>Interests: Physics, Quantum Computing, and Machine Learning</i></li>
-        <li><i>I use Arch Linux BTW</i></li>
+        <li><i>Interests: Quite a loot</i></li>
       </ul>
     </td>
   </tr>
